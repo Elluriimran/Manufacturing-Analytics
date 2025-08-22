@@ -1,4 +1,3 @@
-# Manufacturing-Analytics
 # 🏭 Manufacturing Analytics Project
 
 This project showcases an end-to-end **Manufacturing Analytics Dashboard** built using **Excel, Power BI, Tableau, and SQL**.  
@@ -51,5 +50,57 @@ It provides deep insights into production performance, efficiency, and rejection
 
 ---
 
-## 📂 Repository Contents
+## 🚀 How to Use
+
+1. **Excel Dashboard**
+   - Open `Manufacture_Final(1).xlsx`
+   - Link with `Manufacturing clean Data.xlsx`
+   - Use slicers/filters for dynamic insights.
+
+2. **SQL Script**
+   - Run `SQL_Manufacture Project.sql` in your SQL environment.
+   - Generate cleaned and structured tables for dashboards.
+
+3. **Power BI / Tableau**
+   - Open `.pbix` in Power BI Desktop or `.twbx` in Tableau.
+   - Connect with cleaned dataset for interactive analysis.
+
+---
+
+## 🎯 Key Insights from Dashboards
+
+- Track **production efficiency** and wastage %.
+- Identify **top rejected machines** and defect sources.
+- Compare **department-wise performance**.
+- Analyze **employee-level rejection rates**.
+- Monitor **monthly production trends** to improve planning.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Excel** (Pivot Tables, Charts, Slicers, Conditional Formatting)  
+- **Power BI** (DAX, Interactive Visuals, KPI Cards)  
+- **Tableau** (Visual Analytics, Trend Forecasting)  
+- **SQL** (Data Cleaning & Preparation)
+
+---
+
+## 📌 Future Enhancements
+
+- Automate dashboard refresh with live data pipelines.
+- Add predictive analytics for forecasting production trends.
+- Expand KPIs (cost analysis, downtime tracking, OEE).
+
+---
+
+## 👤 Author
+
+**Elluri Imran**  
+📌 [GitHub Profile](https://github.com/Elluriimran)
+
+---
+
+✨ *This project demonstrates how manufacturing data can be transformed into actionable insights using multiple BI tools.*
+
 
